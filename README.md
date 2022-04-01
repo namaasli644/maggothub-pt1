@@ -1,2 +1,2 @@
 # maggothub-pt1
-Website MaggotHub
+Proyek Tingkat 1 - Altruis Team
